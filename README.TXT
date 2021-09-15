@@ -8,5 +8,5 @@ PROJECT TITLE:Assignment 1
 PURPOSE OF PROJECT:Comp 2001 assignment
 VERSION or DATE:Sept 15th
 HOW TO START THIS PROJECT:
-AUTHORS:tjhynes, mjhancock, mmaloney
+AUTHORS:tjhynes, mjhancock!!, mmaloney
 USER INSTRUCTIONS:
